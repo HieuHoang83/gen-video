@@ -1,0 +1,7 @@
+=== Clip 006 ===
+Time range: 14.85s - 16.65s
+Duration: 1.80s
+Video file: clip_006_14.85s-16.65s.mp4
+
+This is a short clip extracted from the original video.
+It contains 5 representative frames in images/ folder.

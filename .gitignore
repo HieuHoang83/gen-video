@@ -1,0 +1,7 @@
+node_modules/
+mcp-veo3/
+*.pyc
+__pycache__/
+.env
+.venv/
+venv/

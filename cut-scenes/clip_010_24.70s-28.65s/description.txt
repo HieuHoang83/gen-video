@@ -1,7 +1,0 @@
-=== Clip 010 ===
-Time range: 24.70s - 28.65s
-Duration: 3.95s
-Video file: clip_010_24.70s-28.65s.mp4
-
-This is a short clip extracted from the original video.
-It contains 5 representative frames in images/ folder.

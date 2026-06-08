@@ -1,7 +1,0 @@
-=== Clip 003 ===
-Time range: 6.50s - 8.45s
-Duration: 1.95s
-Video file: clip_003_6.50s-8.45s.mp4
-
-This is a short clip extracted from the original video.
-It contains 5 representative frames in images/ folder.

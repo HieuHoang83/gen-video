@@ -1,3 +1,4 @@
+# Dependencies
 node_modules/
 mcp-veo3/
 *.pyc
@@ -5,3 +6,22 @@ __pycache__/
 .env
 .venv/
 venv/
+
+# Generated videos
+*.mp4
+
+# Extracted frames / AI temp
+ai-temp/
+frames/
+images/
+temp/
+*-temp/
+
+# Output folders with clips
+clip_*/
+
+# Generated videos folder
+generated-videos/
+
+# Any folder that looks like an output cut folder
+cut-scenes/ai-temp/

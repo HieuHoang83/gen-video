@@ -1,7 +1,0 @@
-=== Clip 011 ===
-Time range: 28.65s - 31.45s
-Duration: 2.80s
-Video file: clip_011_28.65s-31.45s.mp4
-
-This is a short clip extracted from the original video.
-It contains 5 representative frames in images/ folder.

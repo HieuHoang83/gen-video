@@ -1,7 +1,0 @@
-=== Clip 005 ===
-Time range: 12.25s - 14.85s
-Duration: 2.60s
-Video file: clip_005_12.25s-14.85s.mp4
-
-This is a short clip extracted from the original video.
-It contains 5 representative frames in images/ folder.

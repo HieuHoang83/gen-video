@@ -1,7 +1,0 @@
-=== Clip 007 ===
-Time range: 16.65s - 20.05s
-Duration: 3.40s
-Video file: clip_007_16.65s-20.05s.mp4
-
-This is a short clip extracted from the original video.
-It contains 5 representative frames in images/ folder.
